@@ -1,4 +1,11 @@
 ## [MyCV](https://drive.google.com/file/d/1PubLDk2wcSPGX3M-8nDxwkSG1kQ_Qhtv)
+
+## 🧑🏻‍💻 About Me        
+- 🎓 I am a student at FPT Polytechnic College Hanoi
+- 📚 Chuyên ngành của tôi là Web Developer.
+- 🔭 Hiện tại tôi đang code JavaScript, Typescript ReactJS, Node JS, MongoDB.
+        
+        
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/NguyenHuyToi.Your) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/toinh/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@nguyenhuytoi2510) 
 
