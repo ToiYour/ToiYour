@@ -101,12 +101,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToiYour&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToiYour&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToiYour&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 30px; font-style: italic; color: #666;">
