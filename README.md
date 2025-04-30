@@ -117,24 +117,24 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Toi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true" />
+    <img alt="Toi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ToiYour&theme=github-compact&hide_border=true" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" alt="Contribution Calendar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToiYour&theme=github_dark" alt="Contribution Calendar" />
 </div>
 
 ## 🧠 Skills Visualization
 
 <div align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yourusername&skills=JavaScript,TypeScript,React,NodeJS,HTML,CSS,MongoDB&width=820" alt="Skills Chart" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ToiYour&skills=JavaScript,TypeScript,React,NodeJS,HTML,CSS,MongoDB&width=820" alt="Skills Chart" />
 </div>
 <div align="center" style="margin-top: 30px;">
   <h3>🏆 3D Contribution Chart</h3>
   <a href="https://github.com/yourusername">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&column=7&theme=onedark" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=ToiYour&column=7&theme=onedark" alt="GitHub Trophies">
   </a>
 </div>
 <div align="center" style="margin-top: 30px;">
@@ -143,7 +143,7 @@
 </div>
 <div align="center" style="margin-top: 30px;">
   <h3>👀 Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/{yourusername}/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/ToiYour/count.svg" alt="Visitor Count">
 </div>
 <div align="center" style="margin-top: 30px;">
   <h3>💭 Developer Quote of the Day</h3>
